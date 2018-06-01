@@ -1,0 +1,8 @@
+C:\Users\equipo\AppData\Local\Temporary Projects\Ejemplos31May\bin\Debug\Ejemplos31May.exe
+C:\Users\equipo\AppData\Local\Temporary Projects\Ejemplos31May\bin\Debug\Ejemplos31May.pdb
+C:\Users\equipo\AppData\Local\Temporary Projects\Ejemplos31May\obj\x86\Debug\Ejemplos31May.exe
+C:\Users\equipo\AppData\Local\Temporary Projects\Ejemplos31May\obj\x86\Debug\Ejemplos31May.pdb
+C:\Users\equipo\documents\csharp\Projects\Ejemplos31May\Ejemplos31May\obj\x86\Debug\Ejemplos31May.exe
+C:\Users\equipo\documents\csharp\Projects\Ejemplos31May\Ejemplos31May\obj\x86\Debug\Ejemplos31May.pdb
+C:\Users\equipo\documents\csharp\Projects\Ejemplos31May\Ejemplos31May\bin\Debug\Ejemplos31May.exe
+C:\Users\equipo\documents\csharp\Projects\Ejemplos31May\Ejemplos31May\bin\Debug\Ejemplos31May.pdb

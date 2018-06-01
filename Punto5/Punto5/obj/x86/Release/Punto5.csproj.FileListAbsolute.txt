@@ -1,0 +1,4 @@
+C:\Users\equipo\AppData\Local\Temporary Projects\Punto5\bin\Release\Punto5.exe
+C:\Users\equipo\AppData\Local\Temporary Projects\Punto5\bin\Release\Punto5.pdb
+C:\Users\equipo\AppData\Local\Temporary Projects\Punto5\obj\x86\Release\Punto5.exe
+C:\Users\equipo\AppData\Local\Temporary Projects\Punto5\obj\x86\Release\Punto5.pdb
